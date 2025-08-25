@@ -40,7 +40,7 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // Education Section Logo's
 import interLogo from './assets/education_logo/inter.png';
-import ccc from './assets/education_logo/ccc.png';
+import ccc from './assets/education_logo/CCC.png';
 import bteupLogo from './assets/education_logo/bteupLogo.jpg'
 
 // Project Section Logo's
